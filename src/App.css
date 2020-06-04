@@ -1,0 +1,40 @@
+.head{
+    text-align: center;
+    font-size: 50px;
+    color: purple;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 40px;
+    padding: 1%;
+}
+.content-body{
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 5%;
+    background-color: white;
+    width: 50%;
+    border: 1px solid white;
+    padding: 1%;
+}
+.event-list{
+    margin-left: 25%;
+    margin-top: 5%;
+    background-color: white;
+    width: 50%;
+    border: 1px solid white;
+    padding: 1%;
+}
+.description{
+    width: 50%;
+}
+.select{
+    width: 100%;
+}
+.margin{
+    margin-top: 5%;
+}
+.winner{
+    border: 5px groove blueviolet;
+    border-radius: 10px;
+    
+}
