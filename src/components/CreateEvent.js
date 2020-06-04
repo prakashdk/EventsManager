@@ -169,6 +169,7 @@ function CreateEvent({ setEvents, eventList, ...props }) {
             <TextField
               variant="outlined"
               label="Password *"
+              type="password"
               onChange={(event) => setPassword(event.target.value)}
             ></TextField>
             <FormHelperText error>{passwordHelperText}</FormHelperText>
